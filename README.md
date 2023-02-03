@@ -1,3 +1,3 @@
 # DSA in Python
 
-- Programs while learn DSA in Python
+- Programs while learning DSA in Python
